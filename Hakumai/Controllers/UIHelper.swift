@@ -119,13 +119,13 @@ class UIHelper {
     
     // MARK: - Font Attributes
     class func normalCommentAttributes() -> [String: AnyObject] {
-        let attributes = [NSFontAttributeName: NSFont.systemFontOfSize(13),
+        let attributes = [NSFontAttributeName: NSFont.systemFontOfSize(50),
             NSParagraphStyleAttributeName: NSParagraphStyle.defaultParagraphStyle()]
         return attributes
     }
     
     class func boldCommentAttributes() -> [String: AnyObject] {
-        let attributes = [NSFontAttributeName: NSFont.boldSystemFontOfSize(13),
+        let attributes = [NSFontAttributeName: NSFont.boldSystemFontOfSize(50),
             NSParagraphStyleAttributeName: NSParagraphStyle.defaultParagraphStyle()]
         return attributes
     }

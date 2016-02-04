@@ -581,7 +581,7 @@
                                                         </tableCellView>
                                                     </prototypeCellViews>
                                                 </tableColumn>
-                                                <tableColumn identifier="CommentColumn" width="250" minWidth="100" maxWidth="500" id="tu5-BK-w0J">
+                                                <tableColumn identifier="CommentColumn" width="250" minWidth="100" maxWidth="1500" id="tu5-BK-w0J">
                                                     <tableHeaderCell key="headerCell" lineBreakMode="truncatingTail" borderStyle="border" alignment="left" title="Comment">
                                                         <font key="font" metaFont="smallSystem"/>
                                                         <color key="textColor" name="headerTextColor" catalog="System" colorSpace="catalog"/>
